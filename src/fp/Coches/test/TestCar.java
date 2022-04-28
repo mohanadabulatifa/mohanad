@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-import fp.Coches.Coches;
+import fp.Coches.Car;
 import fp.Common.Condition;
 import fp.Common.PaymentMethod;
 
@@ -15,14 +15,13 @@ import fp.Common.PaymentMethod;
 
 	//La clase TestCoches : Responsable de testear los métedos creados en el tipo fp.Coches.
 
-public class TestCoches {
+public class TestCar {
 
 	public static void main(String[] args) {
 		testPriceRestricciones();
 		testKilometersRestricciones();
 		testProductionDateRestricciones();
 		testEquals();
-		testTostreng();
 		testAverageandRating();
 		testsortingCoches();
 
@@ -30,12 +29,12 @@ public class TestCoches {
 	
 	
 	
-	/* testPriceRestricciones() : testea la restriccion numero uno , para que de 
+	/* testPriceRestricciones() : testea la restriccion uno , para que de 
 	 * 									excepción si el precio es negativo .
 	 */
 	private static void testPriceRestricciones() {
 		try {
-			Coches c1 = new Coches("BMW", "740", LocalDate.of(2001, 02, 21), Condition.USED, 2000000, "Black",
+			Car c1 = new Car("BMW", "740", LocalDate.of(2001, 02, 21), Condition.Used, 2000000, "Black",
 					PaymentMethod.Cash, -2000);
 
 		} catch (IllegalArgumentException e) {
@@ -46,12 +45,12 @@ public class TestCoches {
 	
 	
 	
-	/* testKilometersRestricciones() : testea la restriccion numero dos , para que de 
+	/* testKilometersRestricciones() : testea la restriccion dos , para que de 
 	 * 										excepción si los kilometros están en negativo .
 	 */
 	private static void testKilometersRestricciones() {
 		try {
-			Coches c2 = new Coches("BMW", "740", LocalDate.of(2001, 02, 21), Condition.USED, -202700, "Black",
+			Car c2 = new Car("BMW", "740", LocalDate.of(2001, 02, 21), Condition.Used, -202700, "Black",
 					PaymentMethod.Cash, 231000);
 
 		} catch (IllegalArgumentException e) {
@@ -68,7 +67,7 @@ public class TestCoches {
 	 */	
 	private static void testProductionDateRestricciones() {
 		try {
-			Coches c3 = new Coches("BMW", "740", LocalDate.of(2023, 02, 21), Condition.USED, 202700, "Black",
+			Car c3 = new Car("BMW", "740", LocalDate.of(2023, 02, 21), Condition.Used, 202700, "Black",
 					PaymentMethod.Cash, 231000);
 
 		} catch (IllegalArgumentException e) {
@@ -82,32 +81,16 @@ public class TestCoches {
 		/*testEquals() : devuelve true si los coches son iguales , y false si son distintos
 		 */
 	private static void testEquals() {
-		Coches c1 = new Coches("BMW", "740", LocalDate.of(2001, 02, 21), Condition.USED, 2000000, "Black",
+		Car c1 = new Car("BMW", "740", LocalDate.of(2001, 02, 21), Condition.Used, 2000000, "Black",
 				PaymentMethod.Cash, 200000);
-		Coches c2 = new Coches("BMW", "740", LocalDate.of(2001, 02, 21), Condition.USED, 2000000, "Black",
+		Car c2 = new Car("BMW", "740", LocalDate.of(2001, 02, 21), Condition.Used, 2000000, "Black",
 				PaymentMethod.Cash, 200000);
-		Coches c3 = new Coches("BMW", "740", LocalDate.of(2001, 02, 21), Condition.USED, 2000000, "Black",
+		Car c3 = new Car("BMW", "740", LocalDate.of(2001, 02, 21), Condition.Used, 2000000, "Black",
 				PaymentMethod.Cash, 800000);
 		System.out.println("does c1 equals c2 ? : " + c1.equals(c2));
 		System.out.println("does c1 equals c3 ? : " + c1.equals(c3));
 
 	}
-
-	
-	
-	
-	
-		/* testTostreng() : devuelve cada atributo con su tipo en la lista por ejemplo ->
-		 * 		Coches [company=BMW, model=740, productionDate=2001-02-21, condition=USED, 
-		 * 									kilometers=2000000, color=Black, paymentMethod=Cash, price=200000]
-		 */
-	private static void testTostreng() {
-		Coches c1 = new Coches("BMW", "740", LocalDate.of(2001, 02, 21), Condition.USED, 2000000, "Black",
-				PaymentMethod.Cash, 200000);
-		System.out.println(c1.toString());
-
-	}
-	
 	
 	
 		/* testAverageandRating() : testea los dos metedos ( averageKilometersPerYear(), getPriceRating() ),
@@ -115,7 +98,7 @@ public class TestCoches {
 		 *     											y si el coche es caro o barato dependiendo de su precio.
 		 */
 	private static void testAverageandRating() {
-		Coches c1 = new Coches("BMW", "740", LocalDate.of(2001, 02, 21), Condition.USED, 2000000, "Black",
+		Car c1 = new Car("BMW", "740", LocalDate.of(2001, 02, 21), Condition.Used, 2000000, "Black",
 				PaymentMethod.Cash, 200000);
 		System.out.println(c1.averageKilometersPerYear());
 		System.out.println(c1.getPriceRating());
@@ -133,12 +116,12 @@ public class TestCoches {
 	 */
 	
 	private static void testsortingCoches() {
-		List<Coches> cochesLista = new ArrayList();
-		Coches c1 = new Coches("BMW", "740", LocalDate.of(2001, 02, 21), Condition.USED, 2000000, "Black",
+		List<Car> cochesLista = new ArrayList();
+		Car c1 = new Car("BMW", "740", LocalDate.of(2001, 02, 21), Condition.Used, 2000000, "Black",
 				PaymentMethod.Cash, 1305);
-		Coches c2 = new Coches("TOYOTA", "B1", LocalDate.of(2001, 02, 21), Condition.USED, 3000, "Black",
+		Car c2 = new Car("TOYOTA", "B1", LocalDate.of(2001, 02, 21), Condition.Used, 3000, "Black",
 				PaymentMethod.Cash, 200000);
-		Coches c3 = new Coches("NISSAN", "FM2", LocalDate.of(2001, 02, 21), Condition.USED, 140500, "Black",
+		Car c3 = new Car("NISSAN", "FM2", LocalDate.of(2001, 02, 21), Condition.Used, 140500, "Black",
 				PaymentMethod.Cash, 200000);
 		cochesLista.add(c1);
 		cochesLista.add(c2);

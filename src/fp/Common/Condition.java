@@ -1,5 +1,5 @@
 package fp.Common;
 
-public enum Condition { NEW , USED
+public enum Condition { New , Used ;
 
 }

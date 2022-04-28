@@ -1,561 +1,561 @@
-Column2;Column3;Column4;Column5;Column6;Column9;Column10;Column11
-Toyota;Rush;23/01/2016;Used;22249995;White;Cash or Installments;583750
-Kia;Carnival;24/02/2013;Used;0;Grey;Cash Only;100000
-Toyota;Camry;24/12/2004;Used;24999005;White;Installments Only;583750
-Ford;Fusion;17/01/2011;Used;2000000;White;Cash Only;224254
-Ford;Taurus;07/02/2004;Used;50000;Grey;Cash Only;224254
-Renault;Dokker Van;20/05/2004;Used;649995;White;Cash Only;200000
-Toyota;Camry;20/11/2004;New;0;White;Cash or Installments;985000
-Ford;Fusion;29/04/2000;Used;1049995;Black;Cash Only;450000
-Nissan;Patrol;22/06/2009;Used;2000000;White;Cash Only;360000
-Ford;Expedition;05/12/2013;Used;2000000;Black;Installments Only;21140
-BMW;X5;20/01/2011;Used;2000000;Silver;Cash Only;250000
-Cadillac;Escalade;01/03/2008;Used;1749995;Black;Cash or Installments;400000
-Ford;Crown Victoria;15/10/2002;Used;1449995;Silver;Cash Only;230000
-Toyota;Prado;26/06/2005;Used;2010000;White;Cash Only;583750
-Toyota;Avalon;01/11/2001;Used;2900000;White;Cash Only;300000
-Mazda;3;16/10/2011;Used;1549995;Green;Cash Only;160000
-Ford;Explorer;11/05/2005;Used;1949995;Silver;Cash Only;420000
-Kia;Opirus;06/05/2007;Used;50000;Grey;Cash Only;100000
-BMW;740;08/02/2002;Used;2000000;Black;Cash Only;625000
-GMC;Envoy;21/01/2011;Used;2000000;White;Cash Only;220000
-BMW;740;03/01/2021;Used;2000000;Black;Cash Only;625000
-Renault;Symbol;24/09/2011;Used;449995;Silver;Cash Only;120000
-Toyota;Yaris;06/10/2005;Used;2000000;Green;Cash Only;110000
-Dodge;Durango;11/01/2009;Used;2000000;Grey;Cash Only;350000
-Kia;Rio;01/06/1999;Used;449995;Beige;Cash Only;100000
-BMW;730;22/10/2009;Used;1149995;Brown;Cash Only;1000000
-Suzuki;Other;21/01/2016;Used;149995;White;Cash Only;240000
-Toyota;Fortuner;30/09/2021;Used;649995;White;Cash Only;940000
-Toyota;Rush;22/05/2005;Used;149995;White;Cash or Installments;583750
-Kia;Carnival;03/11/1999;Used;0;Grey;Cash Only;100000
-Toyota;Camry;23/06/1999;Used;249995;White;Installments Only;583750
-Ford;Fusion;18/03/2012;Used;2000000;White;Cash Only;224254
-Ford;Taurus;13/07/2007;Used;50000;Grey;Cash Only;224254
-Renault;Dokker Van;30/06/2016;Used;649995;White;Cash Only;200000
-Toyota;Camry;07/05/2013;New;0;White;Cash or Installments;985000
-Ford;Fusion;08/07/2005;Used;1049995;Black;Cash Only;450000
-Nissan;Patrol;22/11/2012;Used;2000000;White;Cash Only;360000
-Ford;Expedition;15/07/2016;Used;2000000;Black;Installments Only;21140
-BMW;X5;02/02/2021;Used;2000000;Silver;Cash Only;250000
-Cadillac;Escalade;03/02/2008;Used;1749995;Black;Cash or Installments;400000
-Ford;Crown Victoria;30/04/2015;Used;1449995;Silver;Cash Only;230000
-Toyota;Prado;15/09/2014;Used;2000000;White;Cash Only;583750
-Toyota;Avalon;10/06/2003;Used;2000000;White;Cash Only;300000
-Mazda;3;03/01/2002;Used;1549995;Green;Cash Only;160000
-Ford;Explorer;29/12/2015;Used;1949995;Silver;Cash Only;420000
-Kia;Opirus;13/06/2005;Used;50000;Grey;Cash Only;100000
-BMW;740;11/09/2002;Used;2000000;Black;Cash Only;625000
-GMC;Envoy;13/04/2017;Used;2000000;White;Cash Only;220000
-BMW;740;18/08/2001;Used;2000000;Black;Cash Only;625000
-Renault;Symbol;02/09/2014;Used;449995;Silver;Cash Only;120000
-Toyota;Yaris;27/01/2001;Used;2000000;Green;Cash Only;110000
-Dodge;Durango;30/08/2016;Used;2000000;Grey;Cash Only;350000
-Kia;Rio;12/08/2009;Used;449995;Beige;Cash Only;100000
-BMW;730;23/10/2007;Used;1149995;Brown;Cash Only;1000000
-Suzuki;Other;06/01/2021;Used;149995;White;Cash Only;240000
-Toyota;Fortuner;19/04/2009;Used;649995;White;Cash Only;940000
-Toyota;Rush;26/09/2019;Used;149995;White;Cash or Installments;583750
-Kia;Carnival;23/05/2002;Used;0;Grey;Cash Only;100000
-Toyota;Camry;30/12/2006;Used;249995;White;Installments Only;583750
-Ford;Fusion;18/10/2015;Used;2000000;White;Cash Only;224254
-Ford;Taurus;14/10/2014;Used;50000;Grey;Cash Only;224254
-Renault;Dokker Van;06/05/2005;Used;649995;White;Cash Only;200000
-Toyota;Camry;09/05/2003;New;0;White;Cash or Installments;985000
-Ford;Fusion;16/01/2008;Used;1049995;Black;Cash Only;450000
-Nissan;Patrol;14/04/2016;Used;2000000;White;Cash Only;360000
-Ford;Expedition;15/09/2001;Used;2000000;Black;Installments Only;21140
-BMW;X5;10/03/2019;Used;2000000;Silver;Cash Only;250000
-Cadillac;Escalade;06/11/2016;Used;1749995;Black;Cash or Installments;400000
-Ford;Crown Victoria;28/04/2001;Used;1449995;Silver;Cash Only;230000
-Toyota;Prado;30/08/2004;Used;2000000;White;Cash Only;583750
-Toyota;Avalon;14/04/2005;Used;2000000;White;Cash Only;300000
-Mazda;3;28/04/2000;Used;1549995;Green;Cash Only;160000
-Ford;Explorer;08/05/2002;Used;1949995;Silver;Cash Only;420000
-Kia;Opirus;03/11/1999;Used;50000;Grey;Cash Only;100000
-BMW;740;22/03/2012;Used;2000000;Black;Cash Only;625000
-GMC;Envoy;20/12/2005;Used;2000000;White;Cash Only;220000
-BMW;740;19/10/2003;Used;2000000;Black;Cash Only;625000
-Renault;Symbol;14/03/2004;Used;449995;Silver;Cash Only;120000
-Toyota;Yaris;28/10/2005;Used;2000000;Green;Cash Only;110000
-Dodge;Durango;01/12/2004;Used;2000000;Grey;Cash Only;350000
-Kia;Rio;26/04/1999;Used;449995;Beige;Cash Only;100000
-BMW;730;10/10/2016;Used;1149995;Brown;Cash Only;1000000
-Suzuki;Other;04/02/2000;Used;149995;White;Cash Only;240000
-Toyota;Fortuner;22/06/2012;Used;649995;White;Cash Only;940000
-Toyota;Rush;10/06/2008;Used;149995;White;Cash or Installments;583750
-Kia;Carnival;13/03/2010;Used;0;Grey;Cash Only;100000
-Toyota;Camry;06/02/2002;Used;249995;White;Installments Only;583750
-Ford;Fusion;09/10/2012;Used;2000000;White;Cash Only;224254
-Ford;Taurus;12/05/2004;Used;50000;Grey;Cash Only;224254
-Renault;Dokker Van;23/01/2016;Used;649995;White;Cash Only;200000
-Toyota;Camry;27/09/2017;New;0;White;Cash or Installments;985000
-Ford;Fusion;20/01/2000;Used;1049995;Black;Cash Only;450000
-Nissan;Patrol;13/10/2001;Used;2000000;White;Cash Only;360000
-Ford;Expedition;12/11/2020;Used;2000000;Black;Installments Only;21140
-BMW;X5;11/03/2018;Used;2000000;Silver;Cash Only;250000
-Cadillac;Escalade;29/05/2016;Used;1749995;Black;Cash or Installments;400000
-Ford;Crown Victoria;07/05/2015;Used;1449995;Silver;Cash Only;230000
-Toyota;Prado;09/12/2014;Used;2000000;White;Cash Only;583750
-Toyota;Avalon;02/03/2000;Used;2000000;White;Cash Only;300000
-Mazda;3;07/05/1999;Used;1549995;Green;Cash Only;160000
-Ford;Explorer;31/03/2007;Used;1949995;Silver;Cash Only;420000
-Kia;Opirus;24/01/2010;Used;50000;Grey;Cash Only;100000
-BMW;740;26/02/2016;Used;2000000;Black;Cash Only;625000
-GMC;Envoy;30/11/2006;Used;2000000;White;Cash Only;220000
-BMW;740;03/07/2016;Used;2000000;Black;Cash Only;625000
-Renault;Symbol;20/09/2004;Used;449995;Silver;Cash Only;120000
-Toyota;Yaris;17/08/2010;Used;2000000;Green;Cash Only;110000
-Dodge;Durango;18/07/1999;Used;2000000;Grey;Cash Only;350000
-Kia;Rio;19/05/2015;Used;449995;Beige;Cash Only;100000
-BMW;730;10/10/2013;Used;1149995;Brown;Cash Only;1000000
-Suzuki;Other;13/07/2012;Used;149995;White;Cash Only;240000
-Toyota;Fortuner;06/01/2001;Used;649995;White;Cash Only;940000
-Toyota;Rush;22/04/2006;Used;149995;White;Cash or Installments;583750
-Kia;Carnival;09/07/2000;Used;0;Grey;Cash Only;100000
-Toyota;Camry;28/11/2010;Used;249995;White;Installments Only;583750
-Ford;Fusion;29/02/2020;Used;2000000;White;Cash Only;224254
-Ford;Taurus;12/07/2021;Used;50000;Grey;Cash Only;224254
-Renault;Dokker Van;06/03/2013;Used;649995;White;Cash Only;200000
-Toyota;Camry;13/12/2017;New;0;White;Cash or Installments;985000
-Ford;Fusion;04/10/2013;Used;1049995;Black;Cash Only;450000
-Nissan;Patrol;17/08/2016;Used;2000000;White;Cash Only;360000
-Ford;Expedition;13/01/2011;Used;2000000;Black;Installments Only;21140
-BMW;X5;10/02/2019;Used;2000000;Silver;Cash Only;250000
-Cadillac;Escalade;27/04/2019;Used;1749995;Black;Cash or Installments;400000
-Ford;Crown Victoria;27/05/2012;Used;1449995;Silver;Cash Only;230000
-Toyota;Prado;24/07/2003;Used;2000000;White;Cash Only;583750
-Toyota;Avalon;30/03/2016;Used;2000000;White;Cash Only;300000
-Mazda;3;01/06/2014;Used;1549995;Green;Cash Only;160000
-Ford;Explorer;13/03/2017;Used;1949995;Silver;Cash Only;420000
-Kia;Opirus;17/01/2013;Used;50000;Grey;Cash Only;100000
-BMW;740;07/04/2018;Used;2000000;Black;Cash Only;625000
-GMC;Envoy;08/12/2013;Used;2000000;White;Cash Only;220000
-BMW;740;11/05/2017;Used;2000000;Black;Cash Only;625000
-Renault;Symbol;24/12/2010;Used;449995;Silver;Cash Only;120000
-Toyota;Yaris;16/08/2014;Used;2000000;Green;Cash Only;110000
-Dodge;Durango;28/05/2002;Used;2000000;Grey;Cash Only;350000
-Kia;Rio;02/05/2011;Used;449995;Beige;Cash Only;100000
-BMW;730;21/04/2000;Used;1149995;Brown;Cash Only;1000000
-Suzuki;Other;25/05/2011;Used;149995;White;Cash Only;240000
-Toyota;Fortuner;07/01/2003;Used;649995;White;Cash Only;940000
-Toyota;Rush;22/10/2009;Used;149995;White;Cash or Installments;583750
-Kia;Carnival;08/06/2012;Used;0;Grey;Cash Only;100000
-Toyota;Camry;26/12/2010;Used;249995;White;Installments Only;583750
-Ford;Fusion;20/07/2010;Used;2000000;White;Cash Only;224254
-Ford;Taurus;07/08/2016;Used;50000;Grey;Cash Only;224254
-Renault;Dokker Van;29/06/2019;Used;649995;White;Cash Only;200000
-Toyota;Camry;06/08/2013;New;0;White;Cash or Installments;985000
-Ford;Fusion;20/10/2020;Used;1049995;Black;Cash Only;450000
-Nissan;Patrol;24/01/2019;Used;2000000;White;Cash Only;360000
-Ford;Expedition;18/05/2003;Used;2000000;Black;Installments Only;21140
-BMW;X5;10/03/2017;Used;2000000;Silver;Cash Only;250000
-Cadillac;Escalade;01/06/2007;Used;1749995;Black;Cash or Installments;400000
-Ford;Crown Victoria;05/07/2017;Used;1449995;Silver;Cash Only;230000
-Toyota;Prado;05/09/2015;Used;2000000;White;Cash Only;583750
-Toyota;Avalon;09/07/2010;Used;2000000;White;Cash Only;300000
-Mazda;3;10/08/2013;Used;1549995;Green;Cash Only;160000
-Ford;Explorer;16/09/2009;Used;1949995;Silver;Cash Only;420000
-Kia;Opirus;03/05/2011;Used;50000;Grey;Cash Only;100000
-BMW;740;20/06/2008;Used;2000000;Black;Cash Only;625000
-GMC;Envoy;31/01/2003;Used;2000000;White;Cash Only;220000
-BMW;740;29/10/2012;Used;2000000;Black;Cash Only;625000
-Renault;Symbol;18/12/2018;Used;449995;Silver;Cash Only;120000
-Toyota;Yaris;31/03/2021;Used;2000000;Green;Cash Only;110000
-Dodge;Durango;09/08/2001;Used;2000000;Grey;Cash Only;350000
-Kia;Rio;22/07/2017;Used;449995;Beige;Cash Only;100000
-BMW;730;15/04/2016;Used;1149995;Brown;Cash Only;1000000
-Suzuki;Other;06/01/2000;Used;149995;White;Cash Only;240000
-Toyota;Fortuner;20/09/2006;Used;649995;White;Cash Only;940000
-Toyota;Rush;31/03/2018;Used;149995;White;Cash or Installments;583750
-Kia;Carnival;25/10/2007;Used;0;Grey;Cash Only;100000
-Toyota;Camry;13/04/2016;Used;249995;White;Installments Only;583750
-Ford;Fusion;22/05/2002;Used;2000000;White;Cash Only;224254
-Ford;Taurus;22/03/2009;Used;50000;Grey;Cash Only;224254
-Renault;Dokker Van;22/12/2011;Used;649995;White;Cash Only;200000
-Toyota;Camry;11/04/2008;New;0;White;Cash or Installments;985000
-Ford;Fusion;16/03/2012;Used;1049995;Black;Cash Only;450000
-Nissan;Patrol;30/07/2005;Used;2000000;White;Cash Only;360000
-Ford;Expedition;16/03/2016;Used;2000000;Black;Installments Only;21140
-BMW;X5;31/01/2003;Used;2000000;Silver;Cash Only;250000
-Cadillac;Escalade;05/02/2020;Used;1749995;Black;Cash or Installments;400000
-Ford;Crown Victoria;02/07/2006;Used;1449995;Silver;Cash Only;230000
-Toyota;Prado;03/01/2000;Used;2000000;White;Cash Only;583750
-Toyota;Avalon;08/10/2002;Used;2000000;White;Cash Only;300000
-Mazda;3;03/09/2014;Used;1549995;Green;Cash Only;160000
-Ford;Explorer;03/08/2011;Used;1949995;Silver;Cash Only;420000
-Kia;Opirus;17/09/2003;Used;50000;Grey;Cash Only;100000
-BMW;740;11/12/2010;Used;2000000;Black;Cash Only;625000
-GMC;Envoy;21/12/2018;Used;2000000;White;Cash Only;220000
-BMW;740;21/02/2001;Used;2000000;Black;Cash Only;625000
-Renault;Symbol;23/09/2021;Used;449995;Silver;Cash Only;120000
-Toyota;Yaris;02/04/2014;Used;2000000;Green;Cash Only;110000
-Dodge;Durango;08/06/2015;Used;2000000;Grey;Cash Only;350000
-Kia;Rio;12/10/2002;Used;449995;Beige;Cash Only;100000
-BMW;730;15/03/2014;Used;1149995;Brown;Cash Only;1000000
-Suzuki;Other;23/04/2013;Used;149995;White;Cash Only;240000
-Toyota;Fortuner;27/01/2019;Used;649995;White;Cash Only;940000
-Toyota;Rush;25/01/2002;Used;149995;White;Cash or Installments;583750
-Kia;Carnival;15/04/2008;Used;0;Grey;Cash Only;100000
-Toyota;Camry;07/09/2002;Used;249995;White;Installments Only;583750
-Ford;Fusion;07/10/2005;Used;2000000;White;Cash Only;224254
-Ford;Taurus;15/08/1999;Used;50000;Grey;Cash Only;224254
-Renault;Dokker Van;24/01/2019;Used;649995;White;Cash Only;200000
-Toyota;Camry;21/02/2005;New;0;White;Cash or Installments;985000
-Ford;Fusion;28/07/2008;Used;1049995;Black;Cash Only;450000
-Nissan;Patrol;11/03/2008;Used;2000000;White;Cash Only;360000
-Ford;Expedition;27/08/2017;Used;2000000;Black;Installments Only;21140
-BMW;X5;24/08/2005;Used;2000000;Silver;Cash Only;250000
-Cadillac;Escalade;11/08/2020;Used;1749995;Black;Cash or Installments;400000
-Ford;Crown Victoria;04/09/2001;Used;1449995;Silver;Cash Only;230000
-Toyota;Prado;27/11/2000;Used;2000000;White;Cash Only;583750
-Toyota;Avalon;27/02/2008;Used;2000000;White;Cash Only;300000
-Mazda;3;21/11/2014;Used;1549995;Green;Cash Only;160000
-Ford;Explorer;28/11/2002;Used;1949995;Silver;Cash Only;420000
-Kia;Opirus;15/11/2017;Used;50000;Grey;Cash Only;100000
-BMW;740;23/11/2000;Used;2000000;Black;Cash Only;625000
-GMC;Envoy;23/01/2010;Used;2000000;White;Cash Only;220000
-BMW;740;09/02/1999;Used;2000000;Black;Cash Only;625000
-Renault;Symbol;31/07/2007;Used;449995;Silver;Cash Only;120000
-Toyota;Yaris;12/06/2006;Used;2000000;Green;Cash Only;110000
-Dodge;Durango;08/01/2003;Used;2000000;Grey;Cash Only;350000
-Kia;Rio;27/07/1999;Used;449995;Beige;Cash Only;100000
-BMW;730;31/10/2014;Used;1149995;Brown;Cash Only;1000000
-Suzuki;Other;03/08/2002;Used;149995;White;Cash Only;240000
-Toyota;Fortuner;02/02/2017;Used;649995;White;Cash Only;940000
-Toyota;Rush;24/03/2011;Used;149995;White;Cash or Installments;583750
-Kia;Carnival;13/05/2014;Used;0;Grey;Cash Only;100000
-Toyota;Camry;22/02/2007;Used;249995;White;Installments Only;583750
-Ford;Fusion;18/11/2003;Used;2000000;White;Cash Only;224254
-Ford;Taurus;25/11/2016;Used;50000;Grey;Cash Only;224254
-Renault;Dokker Van;10/04/2002;Used;649995;White;Cash Only;200000
-Toyota;Camry;04/11/2019;New;0;White;Cash or Installments;985000
-Ford;Fusion;28/01/2008;Used;1049995;Black;Cash Only;450000
-Nissan;Patrol;16/05/2016;Used;2000000;White;Cash Only;360000
-Ford;Expedition;01/03/2017;Used;2000000;Black;Installments Only;21140
-BMW;X5;12/08/2008;Used;2000000;Silver;Cash Only;250000
-Cadillac;Escalade;26/02/2008;Used;1749995;Black;Cash or Installments;400000
-Ford;Crown Victoria;14/03/2021;Used;1449995;Silver;Cash Only;230000
-Toyota;Prado;31/05/2001;Used;2000000;White;Cash Only;583750
-Toyota;Avalon;08/03/2009;Used;2000000;White;Cash Only;300000
-Mazda;3;10/04/1999;Used;1549995;Green;Cash Only;160000
-Ford;Explorer;20/02/2009;Used;1949995;Silver;Cash Only;420000
-Kia;Opirus;17/10/2002;Used;50000;Grey;Cash Only;100000
-BMW;740;26/11/2008;Used;2000000;Black;Cash Only;625000
-GMC;Envoy;26/05/2014;Used;2000000;White;Cash Only;220000
-BMW;740;02/10/2007;Used;2000000;Black;Cash Only;625000
-Renault;Symbol;25/08/2010;Used;449995;Silver;Cash Only;120000
-Toyota;Yaris;07/05/2018;Used;2000000;Green;Cash Only;110000
-Dodge;Durango;16/11/2016;Used;2000000;Grey;Cash Only;350000
-Kia;Rio;14/08/2001;Used;449995;Beige;Cash Only;100000
-BMW;730;17/02/2001;Used;1149995;Brown;Cash Only;1000000
-Suzuki;Other;05/01/2021;Used;149995;White;Cash Only;240000
-Toyota;Fortuner;23/01/2009;Used;649995;White;Cash Only;940000
-Toyota;Rush;25/06/2000;Used;149995;White;Cash or Installments;583750
-Kia;Carnival;29/04/2016;Used;0;Grey;Cash Only;100000
-Toyota;Camry;02/07/2002;Used;249995;White;Installments Only;583750
-Ford;Fusion;15/12/2015;Used;2000000;White;Cash Only;224254
-Ford;Taurus;23/12/2020;Used;50000;Grey;Cash Only;224254
-Renault;Dokker Van;04/07/2013;Used;649995;White;Cash Only;200000
-Toyota;Camry;25/07/2001;New;0;White;Cash or Installments;985000
-Ford;Fusion;23/11/2020;Used;1049995;Black;Cash Only;450000
-Nissan;Patrol;03/10/2013;Used;2000000;White;Cash Only;360000
-Ford;Expedition;12/01/2009;Used;2000000;Black;Installments Only;21140
-BMW;X5;12/09/2008;Used;2000000;Silver;Cash Only;250000
-Cadillac;Escalade;25/12/2006;Used;1749995;Black;Cash or Installments;400000
-Ford;Crown Victoria;09/03/2011;Used;1449995;Silver;Cash Only;230000
-Toyota;Prado;12/06/2007;Used;2000000;White;Cash Only;583750
-Toyota;Avalon;15/08/2020;Used;2000000;White;Cash Only;300000
-Mazda;3;17/04/2010;Used;1549995;Green;Cash Only;160000
-Ford;Explorer;18/03/2007;Used;1949995;Silver;Cash Only;420000
-Kia;Opirus;16/06/2020;Used;50000;Grey;Cash Only;100000
-BMW;740;04/11/2017;Used;2000000;Black;Cash Only;625000
-GMC;Envoy;14/02/2012;Used;2000000;White;Cash Only;220000
-BMW;740;08/05/2005;Used;2000000;Black;Cash Only;625000
-Renault;Symbol;02/11/2018;Used;449995;Silver;Cash Only;120000
-Toyota;Yaris;07/12/1999;Used;2000000;Green;Cash Only;110000
-Dodge;Durango;15/11/2010;Used;2000000;Grey;Cash Only;350000
-Kia;Rio;19/07/2019;Used;449995;Beige;Cash Only;100000
-BMW;730;20/05/2020;Used;1149995;Brown;Cash Only;1000000
-Suzuki;Other;10/02/2001;Used;149995;White;Cash Only;240000
-Toyota;Fortuner;21/10/2004;Used;649995;White;Cash Only;940000
-Toyota;Rush;26/11/2015;Used;149995;White;Cash or Installments;583750
-Kia;Carnival;05/09/2015;Used;0;Grey;Cash Only;100000
-Toyota;Camry;02/05/2001;Used;249995;White;Installments Only;583750
-Ford;Fusion;29/06/2019;Used;2000000;White;Cash Only;224254
-Ford;Taurus;04/01/2013;Used;50000;Grey;Cash Only;224254
-Renault;Dokker Van;28/04/1999;Used;649995;White;Cash Only;200000
-Toyota;Camry;19/12/1999;New;0;White;Cash or Installments;985000
-Ford;Fusion;29/07/2015;Used;1049995;Black;Cash Only;450000
-Nissan;Patrol;09/10/2003;Used;2000000;White;Cash Only;360000
-Ford;Expedition;14/05/2011;Used;2000000;Black;Installments Only;21140
-BMW;X5;07/04/2019;Used;2000000;Silver;Cash Only;250000
-Cadillac;Escalade;05/01/1999;Used;1749995;Black;Cash or Installments;400000
-Ford;Crown Victoria;30/05/2021;Used;1449995;Silver;Cash Only;230000
-Toyota;Prado;01/12/2001;Used;2000000;White;Cash Only;583750
-Toyota;Avalon;14/10/2009;Used;2000000;White;Cash Only;300000
-Mazda;3;01/07/1999;Used;1549995;Green;Cash Only;160000
-Ford;Explorer;29/01/2002;Used;1949995;Silver;Cash Only;420000
-Kia;Opirus;23/06/1999;Used;50000;Grey;Cash Only;100000
-BMW;740;13/03/2004;Used;2000000;Black;Cash Only;625000
-GMC;Envoy;29/06/2016;Used;2000000;White;Cash Only;220000
-BMW;740;21/08/2021;Used;2000000;Black;Cash Only;625000
-Renault;Symbol;01/10/2008;Used;449995;Silver;Cash Only;120000
-Toyota;Yaris;10/08/2012;Used;2000000;Green;Cash Only;110000
-Dodge;Durango;05/10/2001;Used;2000000;Grey;Cash Only;350000
-Kia;Rio;08/12/2013;Used;449995;Beige;Cash Only;100000
-BMW;730;27/05/2019;Used;1149995;Brown;Cash Only;1000000
-Suzuki;Other;27/04/2012;Used;149995;White;Cash Only;240000
-Toyota;Fortuner;13/09/2006;Used;649995;White;Cash Only;940000
-Toyota;Rush;23/03/2021;Used;149995;White;Cash or Installments;583750
-Kia;Carnival;29/04/2003;Used;0;Grey;Cash Only;100000
-Toyota;Camry;25/08/2010;Used;249995;White;Installments Only;583750
-Ford;Fusion;02/01/2021;Used;2000000;White;Cash Only;224254
-Ford;Taurus;11/10/2020;Used;50000;Grey;Cash Only;224254
-Renault;Dokker Van;25/06/2004;Used;649995;White;Cash Only;200000
-Toyota;Camry;09/01/2015;New;0;White;Cash or Installments;985000
-Ford;Fusion;25/02/2009;Used;1049995;Black;Cash Only;450000
-Nissan;Patrol;21/06/2019;Used;2000000;White;Cash Only;360000
-Ford;Expedition;15/09/2017;Used;2000000;Black;Installments Only;21140
-BMW;X5;03/10/2001;Used;2000000;Silver;Cash Only;250000
-Cadillac;Escalade;06/12/2019;Used;1749995;Black;Cash or Installments;400000
-Ford;Crown Victoria;03/10/2008;Used;1449995;Silver;Cash Only;230000
-Toyota;Prado;08/09/2009;Used;2000000;White;Cash Only;583750
-Toyota;Avalon;18/01/2019;Used;2000000;White;Cash Only;300000
-Mazda;3;27/01/2012;Used;1549995;Green;Cash Only;160000
-Ford;Explorer;24/12/2009;Used;1949995;Silver;Cash Only;420000
-Kia;Opirus;11/01/2021;Used;50000;Grey;Cash Only;100000
-BMW;740;23/10/2005;Used;2000000;Black;Cash Only;625000
-GMC;Envoy;09/09/2004;Used;2000000;White;Cash Only;220000
-BMW;740;20/12/2006;Used;2000000;Black;Cash Only;625000
-Renault;Symbol;12/05/2007;Used;449995;Silver;Cash Only;120000
-Toyota;Yaris;27/07/2018;Used;2000000;Green;Cash Only;110000
-Dodge;Durango;26/11/2014;Used;2000000;Grey;Cash Only;350000
-Kia;Rio;03/12/2008;Used;449995;Beige;Cash Only;100000
-BMW;730;03/08/2003;Used;1149995;Brown;Cash Only;1000000
-Suzuki;Other;21/07/2014;Used;149995;White;Cash Only;240000
-Toyota;Fortuner;12/01/2003;Used;649995;White;Cash Only;940000
-Toyota;Rush;14/04/2002;Used;149995;White;Cash or Installments;583750
-Kia;Carnival;01/07/2021;Used;0;Grey;Cash Only;100000
-Toyota;Camry;03/08/2016;Used;249995;White;Installments Only;583750
-Ford;Fusion;08/10/2020;Used;2000000;White;Cash Only;224254
-Ford;Taurus;02/01/2008;Used;50000;Grey;Cash Only;224254
-Renault;Dokker Van;23/02/2007;Used;649995;White;Cash Only;200000
-Toyota;Camry;19/12/2020;New;0;White;Cash or Installments;985000
-Ford;Fusion;19/09/2005;Used;1049995;Black;Cash Only;450000
-Nissan;Patrol;25/02/2010;Used;2000000;White;Cash Only;360000
-Ford;Expedition;31/03/2004;Used;2000000;Black;Installments Only;21140
-BMW;X5;27/10/2018;Used;2000000;Silver;Cash Only;250000
-Cadillac;Escalade;21/02/2006;Used;1749995;Black;Cash or Installments;400000
-Ford;Crown Victoria;24/05/2020;Used;1449995;Silver;Cash Only;230000
-Toyota;Prado;29/05/2015;Used;2000000;White;Cash Only;583750
-Toyota;Avalon;16/08/2001;Used;2000000;White;Cash Only;300000
-Mazda;3;31/03/2003;Used;1549995;Green;Cash Only;160000
-Ford;Explorer;26/08/2008;Used;1949995;Silver;Cash Only;420000
-Kia;Opirus;10/11/1999;Used;50000;Grey;Cash Only;100000
-BMW;740;14/10/2016;Used;2000000;Black;Cash Only;625000
-GMC;Envoy;18/07/2004;Used;2000000;White;Cash Only;220000
-BMW;740;12/02/2012;Used;2000000;Black;Cash Only;625000
-Renault;Symbol;15/06/2000;Used;449995;Silver;Cash Only;120000
-Toyota;Yaris;09/05/2005;Used;2000000;Green;Cash Only;110000
-Dodge;Durango;10/10/2021;Used;2000000;Grey;Cash Only;350000
-Kia;Rio;26/09/2007;Used;449995;Beige;Cash Only;100000
-BMW;730;10/11/2014;Used;1149995;Brown;Cash Only;1000000
-Suzuki;Other;08/08/2007;Used;149995;White;Cash Only;240000
-Toyota;Fortuner;26/06/2003;Used;649995;White;Cash Only;940000
-Toyota;Rush;05/07/2019;Used;149995;White;Cash or Installments;583750
-Kia;Carnival;31/10/2009;Used;0;Grey;Cash Only;100000
-Toyota;Camry;10/09/2020;Used;249995;White;Installments Only;583750
-Ford;Fusion;18/02/2021;Used;2000000;White;Cash Only;224254
-Ford;Taurus;28/09/2011;Used;50000;Grey;Cash Only;224254
-Renault;Dokker Van;06/02/2008;Used;649995;White;Cash Only;200000
-Toyota;Camry;04/03/2014;New;0;White;Cash or Installments;985000
-Ford;Fusion;08/07/2015;Used;1049995;Black;Cash Only;450000
-Nissan;Patrol;24/04/2014;Used;2000000;White;Cash Only;360000
-Ford;Expedition;07/05/2018;Used;2000000;Black;Installments Only;21140
-BMW;X5;03/02/2017;Used;2000000;Silver;Cash Only;250000
-Cadillac;Escalade;22/08/2000;Used;1749995;Black;Cash or Installments;400000
-Ford;Crown Victoria;28/04/2013;Used;1449995;Silver;Cash Only;230000
-Toyota;Prado;04/11/2015;Used;2000000;White;Cash Only;583750
-Toyota;Avalon;24/04/2014;Used;2000000;White;Cash Only;300000
-Mazda;3;25/06/2018;Used;1549995;Green;Cash Only;160000
-Ford;Explorer;24/03/2019;Used;1949995;Silver;Cash Only;420000
-Kia;Opirus;07/09/2016;Used;50000;Grey;Cash Only;100000
-BMW;740;07/06/2006;Used;2000000;Black;Cash Only;625000
-GMC;Envoy;22/10/2005;Used;2000000;White;Cash Only;220000
-BMW;740;25/03/2001;Used;2000000;Black;Cash Only;625000
-Renault;Symbol;26/08/2012;Used;449995;Silver;Cash Only;120000
-Toyota;Yaris;31/07/2020;Used;2000000;Green;Cash Only;110000
-Dodge;Durango;17/11/2019;Used;2000000;Grey;Cash Only;350000
-Kia;Rio;29/09/2015;Used;449995;Beige;Cash Only;100000
-BMW;730;03/03/2013;Used;1149995;Brown;Cash Only;1000000
-Suzuki;Other;15/09/2009;Used;149995;White;Cash Only;240000
-Toyota;Fortuner;01/04/2014;Used;649995;White;Cash Only;940000
-Toyota;Rush;13/06/2018;Used;149995;White;Cash or Installments;583750
-Kia;Carnival;24/05/2012;Used;0;Grey;Cash Only;100000
-Toyota;Camry;10/05/2004;Used;249995;White;Installments Only;583750
-Ford;Fusion;29/03/2009;Used;2000000;White;Cash Only;224254
-Ford;Taurus;24/11/2019;Used;50000;Grey;Cash Only;224254
-Renault;Dokker Van;27/11/2010;Used;649995;White;Cash Only;200000
-Toyota;Camry;18/11/2011;New;0;White;Cash or Installments;985000
-Ford;Fusion;17/10/2005;Used;1049995;Black;Cash Only;450000
-Nissan;Patrol;23/11/2001;Used;2000000;White;Cash Only;360000
-Ford;Expedition;28/03/2012;Used;2000000;Black;Installments Only;21140
-BMW;X5;31/10/2001;Used;2000000;Silver;Cash Only;250000
-Cadillac;Escalade;23/03/2021;Used;1749995;Black;Cash or Installments;400000
-Ford;Crown Victoria;19/11/2003;Used;1449995;Silver;Cash Only;230000
-Toyota;Prado;14/08/2000;Used;2000000;White;Cash Only;583750
-Toyota;Avalon;07/02/2017;Used;2000000;White;Cash Only;300000
-Mazda;3;16/11/2003;Used;1549995;Green;Cash Only;160000
-Ford;Explorer;04/05/2001;Used;1949995;Silver;Cash Only;420000
-Kia;Opirus;07/02/2013;Used;50000;Grey;Cash Only;100000
-BMW;740;02/08/2020;Used;2000000;Black;Cash Only;625000
-GMC;Envoy;22/10/2001;Used;2000000;White;Cash Only;220000
-BMW;740;02/05/2003;Used;2000000;Black;Cash Only;625000
-Renault;Symbol;09/03/2005;Used;449995;Silver;Cash Only;120000
-Toyota;Yaris;10/07/2005;Used;2000000;Green;Cash Only;110000
-Dodge;Durango;25/04/2013;Used;2000000;Grey;Cash Only;350000
-Kia;Rio;11/02/1999;Used;449995;Beige;Cash Only;100000
-BMW;730;07/06/2005;Used;1149995;Brown;Cash Only;1000000
-Suzuki;Other;05/11/2006;Used;149995;White;Cash Only;240000
-Toyota;Fortuner;20/08/2002;Used;649995;White;Cash Only;940000
-Toyota;Rush;08/09/2000;Used;149995;White;Cash or Installments;583750
-Kia;Carnival;10/09/2002;Used;0;Grey;Cash Only;100000
-Toyota;Camry;11/09/2012;Used;249995;White;Installments Only;583750
-Ford;Fusion;06/11/2011;Used;2000000;White;Cash Only;224254
-Ford;Taurus;01/01/2001;Used;50000;Grey;Cash Only;224254
-Renault;Dokker Van;28/01/2000;Used;649995;White;Cash Only;200000
-Toyota;Camry;18/01/2021;New;0;White;Cash or Installments;985000
-Ford;Fusion;19/04/2005;Used;1049995;Black;Cash Only;450000
-Nissan;Patrol;31/05/2018;Used;2000000;White;Cash Only;360000
-Ford;Expedition;06/01/1999;Used;2000000;Black;Installments Only;21140
-BMW;X5;14/08/2002;Used;2000000;Silver;Cash Only;250000
-Cadillac;Escalade;07/01/2012;Used;1749995;Black;Cash or Installments;400000
-Ford;Crown Victoria;10/12/2020;Used;1449995;Silver;Cash Only;230000
-Toyota;Prado;02/09/2006;Used;2000000;White;Cash Only;583750
-Toyota;Avalon;24/09/2021;Used;2000000;White;Cash Only;300000
-Mazda;3;08/06/2008;Used;1549995;Green;Cash Only;160000
-Ford;Explorer;04/01/2017;Used;1949995;Silver;Cash Only;420000
-Kia;Opirus;05/07/1999;Used;50000;Grey;Cash Only;100000
-BMW;740;06/03/2014;Used;2000000;Black;Cash Only;625000
-GMC;Envoy;26/09/2016;Used;2000000;White;Cash Only;220000
-BMW;740;23/01/2011;Used;2000000;Black;Cash Only;625000
-Renault;Symbol;24/01/2010;Used;449995;Silver;Cash Only;120000
-Toyota;Yaris;28/11/2018;Used;2000000;Green;Cash Only;110000
-Dodge;Durango;16/10/2007;Used;2000000;Grey;Cash Only;350000
-Kia;Rio;15/10/2010;Used;449995;Beige;Cash Only;100000
-BMW;730;21/04/2016;Used;1149995;Brown;Cash Only;1000000
-Suzuki;Other;20/09/2006;Used;149995;White;Cash Only;240000
-Toyota;Fortuner;25/04/2009;Used;649995;White;Cash Only;940000
-Toyota;Rush;10/06/2016;Used;149995;White;Cash or Installments;583750
-Kia;Carnival;07/07/2021;Used;0;Grey;Cash Only;100000
-Toyota;Camry;22/11/2002;Used;249995;White;Installments Only;583750
-Ford;Fusion;23/07/2020;Used;2000000;White;Cash Only;224254
-Ford;Taurus;06/01/2004;Used;50000;Grey;Cash Only;224254
-Renault;Dokker Van;03/05/2006;Used;649995;White;Cash Only;200000
-Toyota;Camry;21/10/2010;New;0;White;Cash or Installments;985000
-Ford;Fusion;07/04/2004;Used;1049995;Black;Cash Only;450000
-Nissan;Patrol;17/05/2008;Used;2000000;White;Cash Only;360000
-Ford;Expedition;04/08/2021;Used;2000000;Black;Installments Only;21140
-BMW;X5;17/05/2017;Used;2000000;Silver;Cash Only;250000
-Cadillac;Escalade;23/09/2004;Used;1749995;Black;Cash or Installments;400000
-Ford;Crown Victoria;05/01/2016;Used;1449995;Silver;Cash Only;230000
-Toyota;Prado;19/12/2014;Used;2000000;White;Cash Only;583750
-Toyota;Avalon;10/07/2018;Used;2000000;White;Cash Only;300000
-Mazda;3;28/02/2003;Used;1549995;Green;Cash Only;160000
-Ford;Explorer;13/02/2012;Used;1949995;Silver;Cash Only;420000
-Kia;Opirus;05/02/2003;Used;50000;Grey;Cash Only;100000
-BMW;740;12/06/2021;Used;2000000;Black;Cash Only;625000
-GMC;Envoy;27/03/2009;Used;2000000;White;Cash Only;220000
-BMW;740;06/10/2003;Used;2000000;Black;Cash Only;625000
-Renault;Symbol;11/08/2021;Used;449995;Silver;Cash Only;120000
-Toyota;Yaris;04/05/2004;Used;2000000;Green;Cash Only;110000
-Dodge;Durango;28/04/2002;Used;2000000;Grey;Cash Only;350000
-Kia;Rio;16/05/2016;Used;449995;Beige;Cash Only;100000
-BMW;730;30/01/1999;Used;1149995;Brown;Cash Only;1000000
-Suzuki;Other;10/11/2002;Used;149995;White;Cash Only;240000
-Toyota;Fortuner;01/01/2019;Used;649995;White;Cash Only;940000
-Toyota;Rush;26/04/2013;Used;149995;White;Cash or Installments;583750
-Kia;Carnival;30/05/2003;Used;0;Grey;Cash Only;100000
-Toyota;Camry;30/03/2014;Used;249995;White;Installments Only;583750
-Ford;Fusion;01/05/2015;Used;2000000;White;Cash Only;224254
-Ford;Taurus;03/07/2009;Used;50000;Grey;Cash Only;224254
-Renault;Dokker Van;15/02/2017;Used;649995;White;Cash Only;200000
-Toyota;Camry;10/03/2001;New;0;White;Cash or Installments;985000
-Ford;Fusion;24/04/2014;Used;1049995;Black;Cash Only;450000
-Nissan;Patrol;11/09/2001;Used;2000000;White;Cash Only;360000
-Ford;Expedition;12/07/2009;Used;2000000;Black;Installments Only;21140
-BMW;X5;26/05/2014;Used;2000000;Silver;Cash Only;250000
-Cadillac;Escalade;18/08/2016;Used;1749995;Black;Cash or Installments;400000
-Ford;Crown Victoria;29/07/2001;Used;1449995;Silver;Cash Only;230000
-Toyota;Prado;24/09/2021;Used;2000000;White;Cash Only;583750
-Toyota;Avalon;29/07/2000;Used;2000000;White;Cash Only;300000
-Mazda;3;30/08/2006;Used;1549995;Green;Cash Only;160000
-Ford;Explorer;11/04/2014;Used;1949995;Silver;Cash Only;420000
-Kia;Opirus;18/08/2003;Used;50000;Grey;Cash Only;100000
-BMW;740;20/05/2009;Used;2000000;Black;Cash Only;625000
-GMC;Envoy;02/02/2003;Used;2000000;White;Cash Only;220000
-BMW;740;25/03/2003;Used;2000000;Black;Cash Only;625000
-Renault;Symbol;04/07/2009;Used;449995;Silver;Cash Only;120000
-Toyota;Yaris;08/11/2019;Used;2000000;Green;Cash Only;110000
-Dodge;Durango;18/08/2013;Used;2000000;Grey;Cash Only;350000
-Kia;Rio;19/12/2012;Used;449995;Beige;Cash Only;100000
-BMW;730;19/08/2017;Used;1149995;Brown;Cash Only;1000000
-Suzuki;Other;13/02/2009;Used;149995;White;Cash Only;240000
-Toyota;Fortuner;22/12/2002;Used;649995;White;Cash Only;940000
-Toyota;Rush;28/09/2017;Used;149995;White;Cash or Installments;583750
-Kia;Carnival;14/06/2017;Used;0;Grey;Cash Only;100000
-Toyota;Camry;20/03/2018;Used;249995;White;Installments Only;583750
-Ford;Fusion;19/02/2019;Used;2000000;White;Cash Only;224254
-Ford;Taurus;28/07/2007;Used;50000;Grey;Cash Only;224254
-Renault;Dokker Van;21/07/2009;Used;649995;White;Cash Only;200000
-Toyota;Camry;01/12/2000;New;0;White;Cash or Installments;985000
-Ford;Fusion;31/03/2001;Used;1049995;Black;Cash Only;450000
-Nissan;Patrol;03/08/2004;Used;2000000;White;Cash Only;360000
-Ford;Expedition;23/02/2007;Used;2000000;Black;Installments Only;21140
-BMW;X5;17/01/2018;Used;2000000;Silver;Cash Only;250000
-Cadillac;Escalade;12/07/2005;Used;1749995;Black;Cash or Installments;400000
-Ford;Crown Victoria;29/12/2005;Used;1449995;Silver;Cash Only;230000
-Toyota;Prado;20/08/2011;Used;2000000;White;Cash Only;583750
-Toyota;Avalon;10/06/2019;Used;2000000;White;Cash Only;300000
-Mazda;3;21/10/2014;Used;1549995;Green;Cash Only;160000
-Ford;Explorer;26/04/2010;Used;1949995;Silver;Cash Only;420000
-Kia;Opirus;15/02/2015;Used;50000;Grey;Cash Only;100000
-BMW;740;20/07/2012;Used;2000000;Black;Cash Only;625000
-GMC;Envoy;24/11/2015;Used;2000000;White;Cash Only;220000
-BMW;740;01/06/2005;Used;2000000;Black;Cash Only;625000
-Renault;Symbol;19/12/2006;Used;449995;Silver;Cash Only;120000
-Toyota;Yaris;26/05/2005;Used;2000000;Green;Cash Only;110000
-Dodge;Durango;11/01/2007;Used;2000000;Grey;Cash Only;350000
-Kia;Rio;28/01/2000;Used;449995;Beige;Cash Only;100000
-BMW;730;13/11/2011;Used;1149995;Brown;Cash Only;1000000
-Suzuki;Other;17/09/2020;Used;149995;White;Cash Only;240000
-Toyota;Fortuner;02/12/2005;Used;649995;White;Cash Only;940000
-Toyota;Rush;04/06/2004;Used;149995;White;Cash or Installments;583750
-Kia;Carnival;21/08/2015;Used;0;Grey;Cash Only;100000
-Toyota;Camry;05/03/2019;Used;249995;White;Installments Only;583750
-Ford;Fusion;05/09/2005;Used;2000000;White;Cash Only;224254
-Ford;Taurus;22/11/2012;Used;50000;Grey;Cash Only;224254
-Renault;Dokker Van;11/09/2021;Used;649995;White;Cash Only;200000
-Toyota;Camry;08/04/2018;New;0;White;Cash or Installments;985000
-Ford;Fusion;25/08/2002;Used;1049995;Black;Cash Only;450000
-Nissan;Patrol;13/07/2019;Used;2000000;White;Cash Only;360000
-Ford;Expedition;30/12/2017;Used;2000000;Black;Installments Only;21140
-BMW;X5;05/11/2007;Used;2000000;Silver;Cash Only;250000
-Cadillac;Escalade;29/03/2005;Used;1749995;Black;Cash or Installments;400000
-Ford;Crown Victoria;29/07/2011;Used;1449995;Silver;Cash Only;230000
-Toyota;Prado;26/06/2002;Used;2000000;White;Cash Only;583750
-Toyota;Avalon;21/03/2013;Used;2000000;White;Cash Only;300000
-Mazda;3;07/04/2011;Used;1549995;Green;Cash Only;160000
-Ford;Explorer;24/03/2003;Used;1949995;Silver;Cash Only;420000
-Kia;Opirus;15/06/2014;Used;50000;Grey;Cash Only;100000
-BMW;740;07/03/2007;Used;2000000;Black;Cash Only;625000
-GMC;Envoy;11/09/2004;Used;2000000;White;Cash Only;220000
-BMW;740;01/06/2021;Used;2000000;Black;Cash Only;625000
-Renault;Symbol;24/02/2013;Used;449995;Silver;Cash Only;120000
-Toyota;Yaris;17/05/2021;Used;2000000;Green;Cash Only;110000
-Dodge;Durango;16/06/2013;Used;2000000;Grey;Cash Only;350000
-Kia;Rio;21/05/2010;Used;449995;Beige;Cash Only;100000
-BMW;730;21/02/2015;Used;1149995;Brown;Cash Only;1000000
-Suzuki;Other;04/09/2017;Used;149995;White;Cash Only;240000
-Toyota;Fortuner;02/03/2018;Used;649995;White;Cash Only;940000
+Column0;Column1;Column2;Column3;Column4;Column5;Column6;Column7
+Toyota;Rush;23/01/2016;Used;22249995;White;CashOrInstallments;583750
+Kia;Carnival;24/02/2013;Used;0;Grey;Cash;100000
+Toyota;Camry;24/12/2004;Used;24999005;White;Installments;583750
+Ford;Fusion;17/01/2011;Used;2000000;White;Cash;224254
+Ford;Taurus;07/02/2004;Used;50000;Grey;Cash;224254
+Renault;Dokker Van;20/05/2004;Used;649995;White;Cash;200000
+Toyota;Camry;20/11/2004;New;0;White;CashOrInstallments;985000
+Ford;Fusion;29/04/2000;Used;1049995;Black;Cash;450000
+Nissan;Patrol;22/06/2009;Used;2000000;White;Cash;360000
+Ford;Expedition;05/12/2013;Used;2000000;Black;Installments;21140
+BMW;X5;20/01/2011;Used;2000000;Silver;Cash;250000
+Cadillac;Escalade;01/03/2008;Used;1749995;Black;CashOrInstallments;400000
+Ford;Crown Victoria;15/10/2002;Used;1449995;Silver;Cash;230000
+Toyota;Prado;26/06/2005;Used;2010000;White;Cash;583750
+Toyota;Avalon;01/11/2001;Used;2900000;White;Cash;300000
+Mazda;3;16/10/2011;Used;1549995;Green;Cash;160000
+Ford;Explorer;11/05/2005;Used;1949995;Silver;Cash;420000
+Kia;Opirus;06/05/2007;Used;50000;Grey;Cash;100000
+BMW;740;08/02/2002;Used;2000000;Black;Cash;625000
+GMC;Envoy;21/01/2011;Used;2000000;White;Cash;220000
+BMW;740;03/01/2021;Used;2000000;Black;Cash;625000
+Renault;Symbol;24/09/2011;Used;449995;Silver;Cash;120000
+Toyota;Yaris;06/10/2005;Used;2000000;Green;Cash;110000
+Dodge;Durango;11/01/2009;Used;2000000;Grey;Cash;350000
+Kia;Rio;01/06/1999;Used;449995;Beige;Cash;100000
+BMW;730;22/10/2009;Used;1149995;Brown;Cash;1000000
+Suzuki;Other;21/01/2016;Used;149995;White;Cash;240000
+Toyota;Fortuner;30/09/2021;Used;649995;White;Cash;940000
+Toyota;Rush;22/05/2005;Used;149995;White;CashOrInstallments;583750
+Kia;Carnival;03/11/1999;Used;0;Grey;Cash;100000
+Toyota;Camry;23/06/1999;Used;249995;White;Installments;583750
+Ford;Fusion;18/03/2012;Used;2000000;White;Cash;224254
+Ford;Taurus;13/07/2007;Used;50000;Grey;Cash;224254
+Renault;Dokker Van;30/06/2016;Used;649995;White;Cash;200000
+Toyota;Camry;07/05/2013;New;0;White;CashOrInstallments;985000
+Ford;Fusion;08/07/2005;Used;1049995;Black;Cash;450000
+Nissan;Patrol;22/11/2012;Used;2000000;White;Cash;360000
+Ford;Expedition;15/07/2016;Used;2000000;Black;Installments;21140
+BMW;X5;02/02/2021;Used;2000000;Silver;Cash;250000
+Cadillac;Escalade;03/02/2008;Used;1749995;Black;CashOrInstallments;400000
+Ford;Crown Victoria;30/04/2015;Used;1449995;Silver;Cash;230000
+Toyota;Prado;15/09/2014;Used;2000000;White;Cash;583750
+Toyota;Avalon;10/06/2003;Used;2000000;White;Cash;300000
+Mazda;3;03/01/2002;Used;1549995;Green;Cash;160000
+Ford;Explorer;29/12/2015;Used;1949995;Silver;Cash;420000
+Kia;Opirus;13/06/2005;Used;50000;Grey;Cash;100000
+BMW;740;11/09/2002;Used;2000000;Black;Cash;625000
+GMC;Envoy;13/04/2017;Used;2000000;White;Cash;220000
+BMW;740;18/08/2001;Used;2000000;Black;Cash;625000
+Renault;Symbol;02/09/2014;Used;449995;Silver;Cash;120000
+Toyota;Yaris;27/01/2001;Used;2000000;Green;Cash;110000
+Dodge;Durango;30/08/2016;Used;2000000;Grey;Cash;350000
+Kia;Rio;12/08/2009;Used;449995;Beige;Cash;100000
+BMW;730;23/10/2007;Used;1149995;Brown;Cash;1000000
+Suzuki;Other;06/01/2021;Used;149995;White;Cash;240000
+Toyota;Fortuner;19/04/2009;Used;649995;White;Cash;940000
+Toyota;Rush;26/09/2019;Used;149995;White;CashOrInstallments;583750
+Kia;Carnival;23/05/2002;Used;0;Grey;Cash;100000
+Toyota;Camry;30/12/2006;Used;249995;White;Installments;583750
+Ford;Fusion;18/10/2015;Used;2000000;White;Cash;224254
+Ford;Taurus;14/10/2014;Used;50000;Grey;Cash;224254
+Renault;Dokker Van;06/05/2005;Used;649995;White;Cash;200000
+Toyota;Camry;09/05/2003;New;0;White;CashOrInstallments;985000
+Ford;Fusion;16/01/2008;Used;1049995;Black;Cash;450000
+Nissan;Patrol;14/04/2016;Used;2000000;White;Cash;360000
+Ford;Expedition;15/09/2001;Used;2000000;Black;Installments;21140
+BMW;X5;10/03/2019;Used;2000000;Silver;Cash;250000
+Cadillac;Escalade;06/11/2016;Used;1749995;Black;CashOrInstallments;400000
+Ford;Crown Victoria;28/04/2001;Used;1449995;Silver;Cash;230000
+Toyota;Prado;30/08/2004;Used;2000000;White;Cash;583750
+Toyota;Avalon;14/04/2005;Used;2000000;White;Cash;300000
+Mazda;3;28/04/2000;Used;1549995;Green;Cash;160000
+Ford;Explorer;08/05/2002;Used;1949995;Silver;Cash;420000
+Kia;Opirus;03/11/1999;Used;50000;Grey;Cash;100000
+BMW;740;22/03/2012;Used;2000000;Black;Cash;625000
+GMC;Envoy;20/12/2005;Used;2000000;White;Cash;220000
+BMW;740;19/10/2003;Used;2000000;Black;Cash;625000
+Renault;Symbol;14/03/2004;Used;449995;Silver;Cash;120000
+Toyota;Yaris;28/10/2005;Used;2000000;Green;Cash;110000
+Dodge;Durango;01/12/2004;Used;2000000;Grey;Cash;350000
+Kia;Rio;26/04/1999;Used;449995;Beige;Cash;100000
+BMW;730;10/10/2016;Used;1149995;Brown;Cash;1000000
+Suzuki;Other;04/02/2000;Used;149995;White;Cash;240000
+Toyota;Fortuner;22/06/2012;Used;649995;White;Cash;940000
+Toyota;Rush;10/06/2008;Used;149995;White;CashOrInstallments;583750
+Kia;Carnival;13/03/2010;Used;0;Grey;Cash;100000
+Toyota;Camry;06/02/2002;Used;249995;White;Installments;583750
+Ford;Fusion;09/10/2012;Used;2000000;White;Cash;224254
+Ford;Taurus;12/05/2004;Used;50000;Grey;Cash;224254
+Renault;Dokker Van;23/01/2016;Used;649995;White;Cash;200000
+Toyota;Camry;27/09/2017;New;0;White;CashOrInstallments;985000
+Ford;Fusion;20/01/2000;Used;1049995;Black;Cash;450000
+Nissan;Patrol;13/10/2001;Used;2000000;White;Cash;360000
+Ford;Expedition;12/11/2020;Used;2000000;Black;Installments;21140
+BMW;X5;11/03/2018;Used;2000000;Silver;Cash;250000
+Cadillac;Escalade;29/05/2016;Used;1749995;Black;CashOrInstallments;400000
+Ford;Crown Victoria;07/05/2015;Used;1449995;Silver;Cash;230000
+Toyota;Prado;09/12/2014;Used;2000000;White;Cash;583750
+Toyota;Avalon;02/03/2000;Used;2000000;White;Cash;300000
+Mazda;3;07/05/1999;Used;1549995;Green;Cash;160000
+Ford;Explorer;31/03/2007;Used;1949995;Silver;Cash;420000
+Kia;Opirus;24/01/2010;Used;50000;Grey;Cash;100000
+BMW;740;26/02/2016;Used;2000000;Black;Cash;625000
+GMC;Envoy;30/11/2006;Used;2000000;White;Cash;220000
+BMW;740;03/07/2016;Used;2000000;Black;Cash;625000
+Renault;Symbol;20/09/2004;Used;449995;Silver;Cash;120000
+Toyota;Yaris;17/08/2010;Used;2000000;Green;Cash;110000
+Dodge;Durango;18/07/1999;Used;2000000;Grey;Cash;350000
+Kia;Rio;19/05/2015;Used;449995;Beige;Cash;100000
+BMW;730;10/10/2013;Used;1149995;Brown;Cash;1000000
+Suzuki;Other;13/07/2012;Used;149995;White;Cash;240000
+Toyota;Fortuner;06/01/2001;Used;649995;White;Cash;940000
+Toyota;Rush;22/04/2006;Used;149995;White;CashOrInstallments;583750
+Kia;Carnival;09/07/2000;Used;0;Grey;Cash;100000
+Toyota;Camry;28/11/2010;Used;249995;White;Installments;583750
+Ford;Fusion;29/02/2020;Used;2000000;White;Cash;224254
+Ford;Taurus;12/07/2021;Used;50000;Grey;Cash;224254
+Renault;Dokker Van;06/03/2013;Used;649995;White;Cash;200000
+Toyota;Camry;13/12/2017;New;0;White;CashOrInstallments;985000
+Ford;Fusion;04/10/2013;Used;1049995;Black;Cash;450000
+Nissan;Patrol;17/08/2016;Used;2000000;White;Cash;360000
+Ford;Expedition;13/01/2011;Used;2000000;Black;Installments;21140
+BMW;X5;10/02/2019;Used;2000000;Silver;Cash;250000
+Cadillac;Escalade;27/04/2019;Used;1749995;Black;CashOrInstallments;400000
+Ford;Crown Victoria;27/05/2012;Used;1449995;Silver;Cash;230000
+Toyota;Prado;24/07/2003;Used;2000000;White;Cash;583750
+Toyota;Avalon;30/03/2016;Used;2000000;White;Cash;300000
+Mazda;3;01/06/2014;Used;1549995;Green;Cash;160000
+Ford;Explorer;13/03/2017;Used;1949995;Silver;Cash;420000
+Kia;Opirus;17/01/2013;Used;50000;Grey;Cash;100000
+BMW;740;07/04/2018;Used;2000000;Black;Cash;625000
+GMC;Envoy;08/12/2013;Used;2000000;White;Cash;220000
+BMW;740;11/05/2017;Used;2000000;Black;Cash;625000
+Renault;Symbol;24/12/2010;Used;449995;Silver;Cash;120000
+Toyota;Yaris;16/08/2014;Used;2000000;Green;Cash;110000
+Dodge;Durango;28/05/2002;Used;2000000;Grey;Cash;350000
+Kia;Rio;02/05/2011;Used;449995;Beige;Cash;100000
+BMW;730;21/04/2000;Used;1149995;Brown;Cash;1000000
+Suzuki;Other;25/05/2011;Used;149995;White;Cash;240000
+Toyota;Fortuner;07/01/2003;Used;649995;White;Cash;940000
+Toyota;Rush;22/10/2009;Used;149995;White;CashOrInstallments;583750
+Kia;Carnival;08/06/2012;Used;0;Grey;Cash;100000
+Toyota;Camry;26/12/2010;Used;249995;White;Installments;583750
+Ford;Fusion;20/07/2010;Used;2000000;White;Cash;224254
+Ford;Taurus;07/08/2016;Used;50000;Grey;Cash;224254
+Renault;Dokker Van;29/06/2019;Used;649995;White;Cash;200000
+Toyota;Camry;06/08/2013;New;0;White;CashOrInstallments;985000
+Ford;Fusion;20/10/2020;Used;1049995;Black;Cash;450000
+Nissan;Patrol;24/01/2019;Used;2000000;White;Cash;360000
+Ford;Expedition;18/05/2003;Used;2000000;Black;Installments;21140
+BMW;X5;10/03/2017;Used;2000000;Silver;Cash;250000
+Cadillac;Escalade;01/06/2007;Used;1749995;Black;CashOrInstallments;400000
+Ford;Crown Victoria;05/07/2017;Used;1449995;Silver;Cash;230000
+Toyota;Prado;05/09/2015;Used;2000000;White;Cash;583750
+Toyota;Avalon;09/07/2010;Used;2000000;White;Cash;300000
+Mazda;3;10/08/2013;Used;1549995;Green;Cash;160000
+Ford;Explorer;16/09/2009;Used;1949995;Silver;Cash;420000
+Kia;Opirus;03/05/2011;Used;50000;Grey;Cash;100000
+BMW;740;20/06/2008;Used;2000000;Black;Cash;625000
+GMC;Envoy;31/01/2003;Used;2000000;White;Cash;220000
+BMW;740;29/10/2012;Used;2000000;Black;Cash;625000
+Renault;Symbol;18/12/2018;Used;449995;Silver;Cash;120000
+Toyota;Yaris;31/03/2021;Used;2000000;Green;Cash;110000
+Dodge;Durango;09/08/2001;Used;2000000;Grey;Cash;350000
+Kia;Rio;22/07/2017;Used;449995;Beige;Cash;100000
+BMW;730;15/04/2016;Used;1149995;Brown;Cash;1000000
+Suzuki;Other;06/01/2000;Used;149995;White;Cash;240000
+Toyota;Fortuner;20/09/2006;Used;649995;White;Cash;940000
+Toyota;Rush;31/03/2018;Used;149995;White;CashOrInstallments;583750
+Kia;Carnival;25/10/2007;Used;0;Grey;Cash;100000
+Toyota;Camry;13/04/2016;Used;249995;White;Installments;583750
+Ford;Fusion;22/05/2002;Used;2000000;White;Cash;224254
+Ford;Taurus;22/03/2009;Used;50000;Grey;Cash;224254
+Renault;Dokker Van;22/12/2011;Used;649995;White;Cash;200000
+Toyota;Camry;11/04/2008;New;0;White;CashOrInstallments;985000
+Ford;Fusion;16/03/2012;Used;1049995;Black;Cash;450000
+Nissan;Patrol;30/07/2005;Used;2000000;White;Cash;360000
+Ford;Expedition;16/03/2016;Used;2000000;Black;Installments;21140
+BMW;X5;31/01/2003;Used;2000000;Silver;Cash;250000
+Cadillac;Escalade;05/02/2020;Used;1749995;Black;CashOrInstallments;400000
+Ford;Crown Victoria;02/07/2006;Used;1449995;Silver;Cash;230000
+Toyota;Prado;03/01/2000;Used;2000000;White;Cash;583750
+Toyota;Avalon;08/10/2002;Used;2000000;White;Cash;300000
+Mazda;3;03/09/2014;Used;1549995;Green;Cash;160000
+Ford;Explorer;03/08/2011;Used;1949995;Silver;Cash;420000
+Kia;Opirus;17/09/2003;Used;50000;Grey;Cash;100000
+BMW;740;11/12/2010;Used;2000000;Black;Cash;625000
+GMC;Envoy;21/12/2018;Used;2000000;White;Cash;220000
+BMW;740;21/02/2001;Used;2000000;Black;Cash;625000
+Renault;Symbol;23/09/2021;Used;449995;Silver;Cash;120000
+Toyota;Yaris;02/04/2014;Used;2000000;Green;Cash;110000
+Dodge;Durango;08/06/2015;Used;2000000;Grey;Cash;350000
+Kia;Rio;12/10/2002;Used;449995;Beige;Cash;100000
+BMW;730;15/03/2014;Used;1149995;Brown;Cash;1000000
+Suzuki;Other;23/04/2013;Used;149995;White;Cash;240000
+Toyota;Fortuner;27/01/2019;Used;649995;White;Cash;940000
+Toyota;Rush;25/01/2002;Used;149995;White;CashOrInstallments;583750
+Kia;Carnival;15/04/2008;Used;0;Grey;Cash;100000
+Toyota;Camry;07/09/2002;Used;249995;White;Installments;583750
+Ford;Fusion;07/10/2005;Used;2000000;White;Cash;224254
+Ford;Taurus;15/08/1999;Used;50000;Grey;Cash;224254
+Renault;Dokker Van;24/01/2019;Used;649995;White;Cash;200000
+Toyota;Camry;21/02/2005;New;0;White;CashOrInstallments;985000
+Ford;Fusion;28/07/2008;Used;1049995;Black;Cash;450000
+Nissan;Patrol;11/03/2008;Used;2000000;White;Cash;360000
+Ford;Expedition;27/08/2017;Used;2000000;Black;Installments;21140
+BMW;X5;24/08/2005;Used;2000000;Silver;Cash;250000
+Cadillac;Escalade;11/08/2020;Used;1749995;Black;CashOrInstallments;400000
+Ford;Crown Victoria;04/09/2001;Used;1449995;Silver;Cash;230000
+Toyota;Prado;27/11/2000;Used;2000000;White;Cash;583750
+Toyota;Avalon;27/02/2008;Used;2000000;White;Cash;300000
+Mazda;3;21/11/2014;Used;1549995;Green;Cash;160000
+Ford;Explorer;28/11/2002;Used;1949995;Silver;Cash;420000
+Kia;Opirus;15/11/2017;Used;50000;Grey;Cash;100000
+BMW;740;23/11/2000;Used;2000000;Black;Cash;625000
+GMC;Envoy;23/01/2010;Used;2000000;White;Cash;220000
+BMW;740;09/02/1999;Used;2000000;Black;Cash;625000
+Renault;Symbol;31/07/2007;Used;449995;Silver;Cash;120000
+Toyota;Yaris;12/06/2006;Used;2000000;Green;Cash;110000
+Dodge;Durango;08/01/2003;Used;2000000;Grey;Cash;350000
+Kia;Rio;27/07/1999;Used;449995;Beige;Cash;100000
+BMW;730;31/10/2014;Used;1149995;Brown;Cash;1000000
+Suzuki;Other;03/08/2002;Used;149995;White;Cash;240000
+Toyota;Fortuner;02/02/2017;Used;649995;White;Cash;940000
+Toyota;Rush;24/03/2011;Used;149995;White;CashOrInstallments;583750
+Kia;Carnival;13/05/2014;Used;0;Grey;Cash;100000
+Toyota;Camry;22/02/2007;Used;249995;White;Installments;583750
+Ford;Fusion;18/11/2003;Used;2000000;White;Cash;224254
+Ford;Taurus;25/11/2016;Used;50000;Grey;Cash;224254
+Renault;Dokker Van;10/04/2002;Used;649995;White;Cash;200000
+Toyota;Camry;04/11/2019;New;0;White;CashOrInstallments;985000
+Ford;Fusion;28/01/2008;Used;1049995;Black;Cash;450000
+Nissan;Patrol;16/05/2016;Used;2000000;White;Cash;360000
+Ford;Expedition;01/03/2017;Used;2000000;Black;Installments;21140
+BMW;X5;12/08/2008;Used;2000000;Silver;Cash;250000
+Cadillac;Escalade;26/02/2008;Used;1749995;Black;CashOrInstallments;400000
+Ford;Crown Victoria;14/03/2021;Used;1449995;Silver;Cash;230000
+Toyota;Prado;31/05/2001;Used;2000000;White;Cash;583750
+Toyota;Avalon;08/03/2009;Used;2000000;White;Cash;300000
+Mazda;3;10/04/1999;Used;1549995;Green;Cash;160000
+Ford;Explorer;20/02/2009;Used;1949995;Silver;Cash;420000
+Kia;Opirus;17/10/2002;Used;50000;Grey;Cash;100000
+BMW;740;26/11/2008;Used;2000000;Black;Cash;625000
+GMC;Envoy;26/05/2014;Used;2000000;White;Cash;220000
+BMW;740;02/10/2007;Used;2000000;Black;Cash;625000
+Renault;Symbol;25/08/2010;Used;449995;Silver;Cash;120000
+Toyota;Yaris;07/05/2018;Used;2000000;Green;Cash;110000
+Dodge;Durango;16/11/2016;Used;2000000;Grey;Cash;350000
+Kia;Rio;14/08/2001;Used;449995;Beige;Cash;100000
+BMW;730;17/02/2001;Used;1149995;Brown;Cash;1000000
+Suzuki;Other;05/01/2021;Used;149995;White;Cash;240000
+Toyota;Fortuner;23/01/2009;Used;649995;White;Cash;940000
+Toyota;Rush;25/06/2000;Used;149995;White;CashOrInstallments;583750
+Kia;Carnival;29/04/2016;Used;0;Grey;Cash;100000
+Toyota;Camry;02/07/2002;Used;249995;White;Installments;583750
+Ford;Fusion;15/12/2015;Used;2000000;White;Cash;224254
+Ford;Taurus;23/12/2020;Used;50000;Grey;Cash;224254
+Renault;Dokker Van;04/07/2013;Used;649995;White;Cash;200000
+Toyota;Camry;25/07/2001;New;0;White;CashOrInstallments;985000
+Ford;Fusion;23/11/2020;Used;1049995;Black;Cash;450000
+Nissan;Patrol;03/10/2013;Used;2000000;White;Cash;360000
+Ford;Expedition;12/01/2009;Used;2000000;Black;Installments;21140
+BMW;X5;12/09/2008;Used;2000000;Silver;Cash;250000
+Cadillac;Escalade;25/12/2006;Used;1749995;Black;CashOrInstallments;400000
+Ford;Crown Victoria;09/03/2011;Used;1449995;Silver;Cash;230000
+Toyota;Prado;12/06/2007;Used;2000000;White;Cash;583750
+Toyota;Avalon;15/08/2020;Used;2000000;White;Cash;300000
+Mazda;3;17/04/2010;Used;1549995;Green;Cash;160000
+Ford;Explorer;18/03/2007;Used;1949995;Silver;Cash;420000
+Kia;Opirus;16/06/2020;Used;50000;Grey;Cash;100000
+BMW;740;04/11/2017;Used;2000000;Black;Cash;625000
+GMC;Envoy;14/02/2012;Used;2000000;White;Cash;220000
+BMW;740;08/05/2005;Used;2000000;Black;Cash;625000
+Renault;Symbol;02/11/2018;Used;449995;Silver;Cash;120000
+Toyota;Yaris;07/12/1999;Used;2000000;Green;Cash;110000
+Dodge;Durango;15/11/2010;Used;2000000;Grey;Cash;350000
+Kia;Rio;19/07/2019;Used;449995;Beige;Cash;100000
+BMW;730;20/05/2020;Used;1149995;Brown;Cash;1000000
+Suzuki;Other;10/02/2001;Used;149995;White;Cash;240000
+Toyota;Fortuner;21/10/2004;Used;649995;White;Cash;940000
+Toyota;Rush;26/11/2015;Used;149995;White;CashOrInstallments;583750
+Kia;Carnival;05/09/2015;Used;0;Grey;Cash;100000
+Toyota;Camry;02/05/2001;Used;249995;White;Installments;583750
+Ford;Fusion;29/06/2019;Used;2000000;White;Cash;224254
+Ford;Taurus;04/01/2013;Used;50000;Grey;Cash;224254
+Renault;Dokker Van;28/04/1999;Used;649995;White;Cash;200000
+Toyota;Camry;19/12/1999;New;0;White;CashOrInstallments;985000
+Ford;Fusion;29/07/2015;Used;1049995;Black;Cash;450000
+Nissan;Patrol;09/10/2003;Used;2000000;White;Cash;360000
+Ford;Expedition;14/05/2011;Used;2000000;Black;Installments;21140
+BMW;X5;07/04/2019;Used;2000000;Silver;Cash;250000
+Cadillac;Escalade;05/01/1999;Used;1749995;Black;CashOrInstallments;400000
+Ford;Crown Victoria;30/05/2021;Used;1449995;Silver;Cash;230000
+Toyota;Prado;01/12/2001;Used;2000000;White;Cash;583750
+Toyota;Avalon;14/10/2009;Used;2000000;White;Cash;300000
+Mazda;3;01/07/1999;Used;1549995;Green;Cash;160000
+Ford;Explorer;29/01/2002;Used;1949995;Silver;Cash;420000
+Kia;Opirus;23/06/1999;Used;50000;Grey;Cash;100000
+BMW;740;13/03/2004;Used;2000000;Black;Cash;625000
+GMC;Envoy;29/06/2016;Used;2000000;White;Cash;220000
+BMW;740;21/08/2021;Used;2000000;Black;Cash;625000
+Renault;Symbol;01/10/2008;Used;449995;Silver;Cash;120000
+Toyota;Yaris;10/08/2012;Used;2000000;Green;Cash;110000
+Dodge;Durango;05/10/2001;Used;2000000;Grey;Cash;350000
+Kia;Rio;08/12/2013;Used;449995;Beige;Cash;100000
+BMW;730;27/05/2019;Used;1149995;Brown;Cash;1000000
+Suzuki;Other;27/04/2012;Used;149995;White;Cash;240000
+Toyota;Fortuner;13/09/2006;Used;649995;White;Cash;940000
+Toyota;Rush;23/03/2021;Used;149995;White;CashOrInstallments;583750
+Kia;Carnival;29/04/2003;Used;0;Grey;Cash;100000
+Toyota;Camry;25/08/2010;Used;249995;White;Installments;583750
+Ford;Fusion;02/01/2021;Used;2000000;White;Cash;224254
+Ford;Taurus;11/10/2020;Used;50000;Grey;Cash;224254
+Renault;Dokker Van;25/06/2004;Used;649995;White;Cash;200000
+Toyota;Camry;09/01/2015;New;0;White;CashOrInstallments;985000
+Ford;Fusion;25/02/2009;Used;1049995;Black;Cash;450000
+Nissan;Patrol;21/06/2019;Used;2000000;White;Cash;360000
+Ford;Expedition;15/09/2017;Used;2000000;Black;Installments;21140
+BMW;X5;03/10/2001;Used;2000000;Silver;Cash;250000
+Cadillac;Escalade;06/12/2019;Used;1749995;Black;CashOrInstallments;400000
+Ford;Crown Victoria;03/10/2008;Used;1449995;Silver;Cash;230000
+Toyota;Prado;08/09/2009;Used;2000000;White;Cash;583750
+Toyota;Avalon;18/01/2019;Used;2000000;White;Cash;300000
+Mazda;3;27/01/2012;Used;1549995;Green;Cash;160000
+Ford;Explorer;24/12/2009;Used;1949995;Silver;Cash;420000
+Kia;Opirus;11/01/2021;Used;50000;Grey;Cash;100000
+BMW;740;23/10/2005;Used;2000000;Black;Cash;625000
+GMC;Envoy;09/09/2004;Used;2000000;White;Cash;220000
+BMW;740;20/12/2006;Used;2000000;Black;Cash;625000
+Renault;Symbol;12/05/2007;Used;449995;Silver;Cash;120000
+Toyota;Yaris;27/07/2018;Used;2000000;Green;Cash;110000
+Dodge;Durango;26/11/2014;Used;2000000;Grey;Cash;350000
+Kia;Rio;03/12/2008;Used;449995;Beige;Cash;100000
+BMW;730;03/08/2003;Used;1149995;Brown;Cash;1000000
+Suzuki;Other;21/07/2014;Used;149995;White;Cash;240000
+Toyota;Fortuner;12/01/2003;Used;649995;White;Cash;940000
+Toyota;Rush;14/04/2002;Used;149995;White;CashOrInstallments;583750
+Kia;Carnival;01/07/2021;Used;0;Grey;Cash;100000
+Toyota;Camry;03/08/2016;Used;249995;White;Installments;583750
+Ford;Fusion;08/10/2020;Used;2000000;White;Cash;224254
+Ford;Taurus;02/01/2008;Used;50000;Grey;Cash;224254
+Renault;Dokker Van;23/02/2007;Used;649995;White;Cash;200000
+Toyota;Camry;19/12/2020;New;0;White;CashOrInstallments;985000
+Ford;Fusion;19/09/2005;Used;1049995;Black;Cash;450000
+Nissan;Patrol;25/02/2010;Used;2000000;White;Cash;360000
+Ford;Expedition;31/03/2004;Used;2000000;Black;Installments;21140
+BMW;X5;27/10/2018;Used;2000000;Silver;Cash;250000
+Cadillac;Escalade;21/02/2006;Used;1749995;Black;CashOrInstallments;400000
+Ford;Crown Victoria;24/05/2020;Used;1449995;Silver;Cash;230000
+Toyota;Prado;29/05/2015;Used;2000000;White;Cash;583750
+Toyota;Avalon;16/08/2001;Used;2000000;White;Cash;300000
+Mazda;3;31/03/2003;Used;1549995;Green;Cash;160000
+Ford;Explorer;26/08/2008;Used;1949995;Silver;Cash;420000
+Kia;Opirus;10/11/1999;Used;50000;Grey;Cash;100000
+BMW;740;14/10/2016;Used;2000000;Black;Cash;625000
+GMC;Envoy;18/07/2004;Used;2000000;White;Cash;220000
+BMW;740;12/02/2012;Used;2000000;Black;Cash;625000
+Renault;Symbol;15/06/2000;Used;449995;Silver;Cash;120000
+Toyota;Yaris;09/05/2005;Used;2000000;Green;Cash;110000
+Dodge;Durango;10/10/2021;Used;2000000;Grey;Cash;350000
+Kia;Rio;26/09/2007;Used;449995;Beige;Cash;100000
+BMW;730;10/11/2014;Used;1149995;Brown;Cash;1000000
+Suzuki;Other;08/08/2007;Used;149995;White;Cash;240000
+Toyota;Fortuner;26/06/2003;Used;649995;White;Cash;940000
+Toyota;Rush;05/07/2019;Used;149995;White;CashOrInstallments;583750
+Kia;Carnival;31/10/2009;Used;0;Grey;Cash;100000
+Toyota;Camry;10/09/2020;Used;249995;White;Installments;583750
+Ford;Fusion;18/02/2021;Used;2000000;White;Cash;224254
+Ford;Taurus;28/09/2011;Used;50000;Grey;Cash;224254
+Renault;Dokker Van;06/02/2008;Used;649995;White;Cash;200000
+Toyota;Camry;04/03/2014;New;0;White;CashOrInstallments;985000
+Ford;Fusion;08/07/2015;Used;1049995;Black;Cash;450000
+Nissan;Patrol;24/04/2014;Used;2000000;White;Cash;360000
+Ford;Expedition;07/05/2018;Used;2000000;Black;Installments;21140
+BMW;X5;03/02/2017;Used;2000000;Silver;Cash;250000
+Cadillac;Escalade;22/08/2000;Used;1749995;Black;CashOrInstallments;400000
+Ford;Crown Victoria;28/04/2013;Used;1449995;Silver;Cash;230000
+Toyota;Prado;04/11/2015;Used;2000000;White;Cash;583750
+Toyota;Avalon;24/04/2014;Used;2000000;White;Cash;300000
+Mazda;3;25/06/2018;Used;1549995;Green;Cash;160000
+Ford;Explorer;24/03/2019;Used;1949995;Silver;Cash;420000
+Kia;Opirus;07/09/2016;Used;50000;Grey;Cash;100000
+BMW;740;07/06/2006;Used;2000000;Black;Cash;625000
+GMC;Envoy;22/10/2005;Used;2000000;White;Cash;220000
+BMW;740;25/03/2001;Used;2000000;Black;Cash;625000
+Renault;Symbol;26/08/2012;Used;449995;Silver;Cash;120000
+Toyota;Yaris;31/07/2020;Used;2000000;Green;Cash;110000
+Dodge;Durango;17/11/2019;Used;2000000;Grey;Cash;350000
+Kia;Rio;29/09/2015;Used;449995;Beige;Cash;100000
+BMW;730;03/03/2013;Used;1149995;Brown;Cash;1000000
+Suzuki;Other;15/09/2009;Used;149995;White;Cash;240000
+Toyota;Fortuner;01/04/2014;Used;649995;White;Cash;940000
+Toyota;Rush;13/06/2018;Used;149995;White;CashOrInstallments;583750
+Kia;Carnival;24/05/2012;Used;0;Grey;Cash;100000
+Toyota;Camry;10/05/2004;Used;249995;White;Installments;583750
+Ford;Fusion;29/03/2009;Used;2000000;White;Cash;224254
+Ford;Taurus;24/11/2019;Used;50000;Grey;Cash;224254
+Renault;Dokker Van;27/11/2010;Used;649995;White;Cash;200000
+Toyota;Camry;18/11/2011;New;0;White;CashOrInstallments;985000
+Ford;Fusion;17/10/2005;Used;1049995;Black;Cash;450000
+Nissan;Patrol;23/11/2001;Used;2000000;White;Cash;360000
+Ford;Expedition;28/03/2012;Used;2000000;Black;Installments;21140
+BMW;X5;31/10/2001;Used;2000000;Silver;Cash;250000
+Cadillac;Escalade;23/03/2021;Used;1749995;Black;CashOrInstallments;400000
+Ford;Crown Victoria;19/11/2003;Used;1449995;Silver;Cash;230000
+Toyota;Prado;14/08/2000;Used;2000000;White;Cash;583750
+Toyota;Avalon;07/02/2017;Used;2000000;White;Cash;300000
+Mazda;3;16/11/2003;Used;1549995;Green;Cash;160000
+Ford;Explorer;04/05/2001;Used;1949995;Silver;Cash;420000
+Kia;Opirus;07/02/2013;Used;50000;Grey;Cash;100000
+BMW;740;02/08/2020;Used;2000000;Black;Cash;625000
+GMC;Envoy;22/10/2001;Used;2000000;White;Cash;220000
+BMW;740;02/05/2003;Used;2000000;Black;Cash;625000
+Renault;Symbol;09/03/2005;Used;449995;Silver;Cash;120000
+Toyota;Yaris;10/07/2005;Used;2000000;Green;Cash;110000
+Dodge;Durango;25/04/2013;Used;2000000;Grey;Cash;350000
+Kia;Rio;11/02/1999;Used;449995;Beige;Cash;100000
+BMW;730;07/06/2005;Used;1149995;Brown;Cash;1000000
+Suzuki;Other;05/11/2006;Used;149995;White;Cash;240000
+Toyota;Fortuner;20/08/2002;Used;649995;White;Cash;940000
+Toyota;Rush;08/09/2000;Used;149995;White;CashOrInstallments;583750
+Kia;Carnival;10/09/2002;Used;0;Grey;Cash;100000
+Toyota;Camry;11/09/2012;Used;249995;White;Installments;583750
+Ford;Fusion;06/11/2011;Used;2000000;White;Cash;224254
+Ford;Taurus;01/01/2001;Used;50000;Grey;Cash;224254
+Renault;Dokker Van;28/01/2000;Used;649995;White;Cash;200000
+Toyota;Camry;18/01/2021;New;0;White;CashOrInstallments;985000
+Ford;Fusion;19/04/2005;Used;1049995;Black;Cash;450000
+Nissan;Patrol;31/05/2018;Used;2000000;White;Cash;360000
+Ford;Expedition;06/01/1999;Used;2000000;Black;Installments;21140
+BMW;X5;14/08/2002;Used;2000000;Silver;Cash;250000
+Cadillac;Escalade;07/01/2012;Used;1749995;Black;CashOrInstallments;400000
+Ford;Crown Victoria;10/12/2020;Used;1449995;Silver;Cash;230000
+Toyota;Prado;02/09/2006;Used;2000000;White;Cash;583750
+Toyota;Avalon;24/09/2021;Used;2000000;White;Cash;300000
+Mazda;3;08/06/2008;Used;1549995;Green;Cash;160000
+Ford;Explorer;04/01/2017;Used;1949995;Silver;Cash;420000
+Kia;Opirus;05/07/1999;Used;50000;Grey;Cash;100000
+BMW;740;06/03/2014;Used;2000000;Black;Cash;625000
+GMC;Envoy;26/09/2016;Used;2000000;White;Cash;220000
+BMW;740;23/01/2011;Used;2000000;Black;Cash;625000
+Renault;Symbol;24/01/2010;Used;449995;Silver;Cash;120000
+Toyota;Yaris;28/11/2018;Used;2000000;Green;Cash;110000
+Dodge;Durango;16/10/2007;Used;2000000;Grey;Cash;350000
+Kia;Rio;15/10/2010;Used;449995;Beige;Cash;100000
+BMW;730;21/04/2016;Used;1149995;Brown;Cash;1000000
+Suzuki;Other;20/09/2006;Used;149995;White;Cash;240000
+Toyota;Fortuner;25/04/2009;Used;649995;White;Cash;940000
+Toyota;Rush;10/06/2016;Used;149995;White;CashOrInstallments;583750
+Kia;Carnival;07/07/2021;Used;0;Grey;Cash;100000
+Toyota;Camry;22/11/2002;Used;249995;White;Installments;583750
+Ford;Fusion;23/07/2020;Used;2000000;White;Cash;224254
+Ford;Taurus;06/01/2004;Used;50000;Grey;Cash;224254
+Renault;Dokker Van;03/05/2006;Used;649995;White;Cash;200000
+Toyota;Camry;21/10/2010;New;0;White;CashOrInstallments;985000
+Ford;Fusion;07/04/2004;Used;1049995;Black;Cash;450000
+Nissan;Patrol;17/05/2008;Used;2000000;White;Cash;360000
+Ford;Expedition;04/08/2021;Used;2000000;Black;Installments;21140
+BMW;X5;17/05/2017;Used;2000000;Silver;Cash;250000
+Cadillac;Escalade;23/09/2004;Used;1749995;Black;CashOrInstallments;400000
+Ford;Crown Victoria;05/01/2016;Used;1449995;Silver;Cash;230000
+Toyota;Prado;19/12/2014;Used;2000000;White;Cash;583750
+Toyota;Avalon;10/07/2018;Used;2000000;White;Cash;300000
+Mazda;3;28/02/2003;Used;1549995;Green;Cash;160000
+Ford;Explorer;13/02/2012;Used;1949995;Silver;Cash;420000
+Kia;Opirus;05/02/2003;Used;50000;Grey;Cash;100000
+BMW;740;12/06/2021;Used;2000000;Black;Cash;625000
+GMC;Envoy;27/03/2009;Used;2000000;White;Cash;220000
+BMW;740;06/10/2003;Used;2000000;Black;Cash;625000
+Renault;Symbol;11/08/2021;Used;449995;Silver;Cash;120000
+Toyota;Yaris;04/05/2004;Used;2000000;Green;Cash;110000
+Dodge;Durango;28/04/2002;Used;2000000;Grey;Cash;350000
+Kia;Rio;16/05/2016;Used;449995;Beige;Cash;100000
+BMW;730;30/01/1999;Used;1149995;Brown;Cash;1000000
+Suzuki;Other;10/11/2002;Used;149995;White;Cash;240000
+Toyota;Fortuner;01/01/2019;Used;649995;White;Cash;940000
+Toyota;Rush;26/04/2013;Used;149995;White;CashOrInstallments;583750
+Kia;Carnival;30/05/2003;Used;0;Grey;Cash;100000
+Toyota;Camry;30/03/2014;Used;249995;White;Installments;583750
+Ford;Fusion;01/05/2015;Used;2000000;White;Cash;224254
+Ford;Taurus;03/07/2009;Used;50000;Grey;Cash;224254
+Renault;Dokker Van;15/02/2017;Used;649995;White;Cash;200000
+Toyota;Camry;10/03/2001;New;0;White;CashOrInstallments;985000
+Ford;Fusion;24/04/2014;Used;1049995;Black;Cash;450000
+Nissan;Patrol;11/09/2001;Used;2000000;White;Cash;360000
+Ford;Expedition;12/07/2009;Used;2000000;Black;Installments;21140
+BMW;X5;26/05/2014;Used;2000000;Silver;Cash;250000
+Cadillac;Escalade;18/08/2016;Used;1749995;Black;CashOrInstallments;400000
+Ford;Crown Victoria;29/07/2001;Used;1449995;Silver;Cash;230000
+Toyota;Prado;24/09/2021;Used;2000000;White;Cash;583750
+Toyota;Avalon;29/07/2000;Used;2000000;White;Cash;300000
+Mazda;3;30/08/2006;Used;1549995;Green;Cash;160000
+Ford;Explorer;11/04/2014;Used;1949995;Silver;Cash;420000
+Kia;Opirus;18/08/2003;Used;50000;Grey;Cash;100000
+BMW;740;20/05/2009;Used;2000000;Black;Cash;625000
+GMC;Envoy;02/02/2003;Used;2000000;White;Cash;220000
+BMW;740;25/03/2003;Used;2000000;Black;Cash;625000
+Renault;Symbol;04/07/2009;Used;449995;Silver;Cash;120000
+Toyota;Yaris;08/11/2019;Used;2000000;Green;Cash;110000
+Dodge;Durango;18/08/2013;Used;2000000;Grey;Cash;350000
+Kia;Rio;19/12/2012;Used;449995;Beige;Cash;100000
+BMW;730;19/08/2017;Used;1149995;Brown;Cash;1000000
+Suzuki;Other;13/02/2009;Used;149995;White;Cash;240000
+Toyota;Fortuner;22/12/2002;Used;649995;White;Cash;940000
+Toyota;Rush;28/09/2017;Used;149995;White;CashOrInstallments;583750
+Kia;Carnival;14/06/2017;Used;0;Grey;Cash;100000
+Toyota;Camry;20/03/2018;Used;249995;White;Installments;583750
+Ford;Fusion;19/02/2019;Used;2000000;White;Cash;224254
+Ford;Taurus;28/07/2007;Used;50000;Grey;Cash;224254
+Renault;Dokker Van;21/07/2009;Used;649995;White;Cash;200000
+Toyota;Camry;01/12/2000;New;0;White;CashOrInstallments;985000
+Ford;Fusion;31/03/2001;Used;1049995;Black;Cash;450000
+Nissan;Patrol;03/08/2004;Used;2000000;White;Cash;360000
+Ford;Expedition;23/02/2007;Used;2000000;Black;Installments;21140
+BMW;X5;17/01/2018;Used;2000000;Silver;Cash;250000
+Cadillac;Escalade;12/07/2005;Used;1749995;Black;CashOrInstallments;400000
+Ford;Crown Victoria;29/12/2005;Used;1449995;Silver;Cash;230000
+Toyota;Prado;20/08/2011;Used;2000000;White;Cash;583750
+Toyota;Avalon;10/06/2019;Used;2000000;White;Cash;300000
+Mazda;3;21/10/2014;Used;1549995;Green;Cash;160000
+Ford;Explorer;26/04/2010;Used;1949995;Silver;Cash;420000
+Kia;Opirus;15/02/2015;Used;50000;Grey;Cash;100000
+BMW;740;20/07/2012;Used;2000000;Black;Cash;625000
+GMC;Envoy;24/11/2015;Used;2000000;White;Cash;220000
+BMW;740;01/06/2005;Used;2000000;Black;Cash;625000
+Renault;Symbol;19/12/2006;Used;449995;Silver;Cash;120000
+Toyota;Yaris;26/05/2005;Used;2000000;Green;Cash;110000
+Dodge;Durango;11/01/2007;Used;2000000;Grey;Cash;350000
+Kia;Rio;28/01/2000;Used;449995;Beige;Cash;100000
+BMW;730;13/11/2011;Used;1149995;Brown;Cash;1000000
+Suzuki;Other;17/09/2020;Used;149995;White;Cash;240000
+Toyota;Fortuner;02/12/2005;Used;649995;White;Cash;940000
+Toyota;Rush;04/06/2004;Used;149995;White;CashOrInstallments;583750
+Kia;Carnival;21/08/2015;Used;0;Grey;Cash;100000
+Toyota;Camry;05/03/2019;Used;249995;White;Installments;583750
+Ford;Fusion;05/09/2005;Used;2000000;White;Cash;224254
+Ford;Taurus;22/11/2012;Used;50000;Grey;Cash;224254
+Renault;Dokker Van;11/09/2021;Used;649995;White;Cash;200000
+Toyota;Camry;08/04/2018;New;0;White;CashOrInstallments;985000
+Ford;Fusion;25/08/2002;Used;1049995;Black;Cash;450000
+Nissan;Patrol;13/07/2019;Used;2000000;White;Cash;360000
+Ford;Expedition;30/12/2017;Used;2000000;Black;Installments;21140
+BMW;X5;05/11/2007;Used;2000000;Silver;Cash;250000
+Cadillac;Escalade;29/03/2005;Used;1749995;Black;CashOrInstallments;400000
+Ford;Crown Victoria;29/07/2011;Used;1449995;Silver;Cash;230000
+Toyota;Prado;26/06/2002;Used;2000000;White;Cash;583750
+Toyota;Avalon;21/03/2013;Used;2000000;White;Cash;300000
+Mazda;3;07/04/2011;Used;1549995;Green;Cash;160000
+Ford;Explorer;24/03/2003;Used;1949995;Silver;Cash;420000
+Kia;Opirus;15/06/2014;Used;50000;Grey;Cash;100000
+BMW;740;07/03/2007;Used;2000000;Black;Cash;625000
+GMC;Envoy;11/09/2004;Used;2000000;White;Cash;220000
+BMW;740;01/06/2021;Used;2000000;Black;Cash;625000
+Renault;Symbol;24/02/2013;Used;449995;Silver;Cash;120000
+Toyota;Yaris;17/05/2021;Used;2000000;Green;Cash;110000
+Dodge;Durango;16/06/2013;Used;2000000;Grey;Cash;350000
+Kia;Rio;21/05/2010;Used;449995;Beige;Cash;100000
+BMW;730;21/02/2015;Used;1149995;Brown;Cash;1000000
+Suzuki;Other;04/09/2017;Used;149995;White;Cash;240000
+Toyota;Fortuner;02/03/2018;Used;649995;White;Cash;940000
